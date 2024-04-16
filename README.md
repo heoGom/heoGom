@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=300&text=Hello%20World!&fontColor=cccc&fontAlignY=60&animation=fadeIn)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heoGom&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heoGom&layout=compact)](https://github.com/delay-100/github-readme-stats)
 - 👋 Hi, I’m @heoGom
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
