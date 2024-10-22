@@ -78,7 +78,7 @@
 <br>
 
 
-# 📞 Contact 📞:
+# 📞 Contact:
 <p>📩 EMAIL : gjtjdwo1004@naver.com </p>
 
 <br>
